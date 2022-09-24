@@ -38,7 +38,7 @@ func handleScrape(c echo.Context) error {
 	company := c.FormValue("company")
 	company = strings.ToLower(utils.CleanString(company))
 	scrap.GitScrapper(company)
-	userFileName := fmt.Sprintf("repository_%s", company)
+	userFileName := fmt.Sprintf("repository_%s.csv", company)
 	return c.Attachment(FILE_NAME, userFileName)
 }
 func Start() {
