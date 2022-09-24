@@ -1,0 +1,283 @@
+Title,Description,Language,Badges,Stars
+nft,Node.js dependency tracing utility,JavaScript,,791
+nextjs-portfolio-starter,Easily create a portfolio with Next.js and Markdown.,JavaScript,"blog,nextjs,vercel",390
+ms,Tiny millisecond conversion utility,TypeScript,"utility,conversion,milliseconds",4227
+title-site,A website for capitalizing your titles,JavaScript,"names,title,capitalization,capitalize",106
+title,A service for capitalizing your title properly,JavaScript,"service,title,capitalize,vercel",513
+release,Generate changelogs with a single command,JavaScript,"npm,releases,vercel,github",3469
+reactions,Next.js Incremental Static Regeneration Demo,JavaScript,,269
+hazel,Lightweight update server for Electron apps,JavaScript,"electron,updates,github-releases",2696
+async-retry,"Retrying made simple, easy and async",JavaScript,"javascript,retry,await,async",1561
+beginner-sveltekit,The complete course to start your journey building Svelte applications.,Svelte,"svelte,vercel,sveltekit",50
+mongodb-starter,"A developer directory built on Next.js and MongoDB Atlas, deployed on Vercel with the Vercel + MongoDB integration.",TypeScript,,188
+micro-dev,The development environment for `micro`,JavaScript,"cli,development,tools,interface,command-line",671
+next-react-server-components,Demo repository for Next.js + React Server Components,JavaScript,"react-server-components,react,nextjs",638
+server-components-notes-demo,Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.,JavaScript,"serverless,vercel,react-server-components,react,nextjs",665
+serve-handler,The foundation of `serve`,JavaScript,"middleware,server,handler,static,single-page-applications",456
+fun,ƒun - Local serverless function λ development runtime,TypeScript,,396
+webpack-asset-relocator-loader,Used in ncc while emitting and relocating any asset references,JavaScript,,74
+pkg-fetch,A utility to fetch or build patched Node binaries used by `pkg` to generate executables. This repo hosts prebuilt binaries in Releases.,TypeScript,,291
+nextjs-discord-bot,Discord bot for the official Next.js Discord,TypeScript,,48
+spr-landing,Serverless Pre-Rendering Landing Page,CSS,"demo,notion,vercel",384
+resolve-node,API endpoint to resolve an arbitrary Node.js version with semver support,JavaScript,,24
+hitbot,,TypeScript,,2
+commerce-framework,,TypeScript,,88
+react-keyframes,Create frame-based animations in React,TypeScript,"react,animate,animation,frame,keyframes",608
+sqsmv,Move messages between two SQS queues,Go,,9
+cosmosdb-server,A Cosmos DB server implementation for testing your applications locally.,TypeScript,,145
+body-scroll-lock,Body scroll locking that just works with everything 😏,JavaScript,,4
+workshop-reacthaton,,TypeScript,,6
+email-prompt,CLI email prompt with autocompletion and built-in validation,JavaScript,,270
+nextgram,A sample Next.js app showing dynamic routing with modals as a route.,JavaScript,"nextjs,vercel",57
+nft,Node.js dependency tracing utility,JavaScript,,791
+nextjs-portfolio-starter,Easily create a portfolio with Next.js and Markdown.,JavaScript,"blog,nextjs,vercel",390
+ms,Tiny millisecond conversion utility,TypeScript,"utility,conversion,milliseconds",4227
+title-site,A website for capitalizing your titles,JavaScript,"names,title,capitalization,capitalize",106
+title,A service for capitalizing your title properly,JavaScript,"service,title,capitalize,vercel",513
+release,Generate changelogs with a single command,JavaScript,"npm,releases,vercel,github",3469
+reactions,Next.js Incremental Static Regeneration Demo,JavaScript,,269
+hazel,Lightweight update server for Electron apps,JavaScript,"electron,updates,github-releases",2696
+async-retry,"Retrying made simple, easy and async",JavaScript,"javascript,retry,await,async",1561
+beginner-sveltekit,The complete course to start your journey building Svelte applications.,Svelte,"svelte,vercel,sveltekit",50
+mongodb-starter,"A developer directory built on Next.js and MongoDB Atlas, deployed on Vercel with the Vercel + MongoDB integration.",TypeScript,,188
+micro-dev,The development environment for `micro`,JavaScript,"cli,development,tools,interface,command-line",671
+next-react-server-components,Demo repository for Next.js + React Server Components,JavaScript,"react-server-components,react,nextjs",638
+server-components-notes-demo,Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.,JavaScript,"serverless,vercel,react-server-components,react,nextjs",665
+serve-handler,The foundation of `serve`,JavaScript,"middleware,server,handler,static,single-page-applications",456
+fun,ƒun - Local serverless function λ development runtime,TypeScript,,396
+webpack-asset-relocator-loader,Used in ncc while emitting and relocating any asset references,JavaScript,,74
+pkg-fetch,A utility to fetch or build patched Node binaries used by `pkg` to generate executables. This repo hosts prebuilt binaries in Releases.,TypeScript,,291
+nextjs-discord-bot,Discord bot for the official Next.js Discord,TypeScript,,48
+spr-landing,Serverless Pre-Rendering Landing Page,CSS,"demo,notion,vercel",384
+resolve-node,API endpoint to resolve an arbitrary Node.js version with semver support,JavaScript,,24
+hitbot,,TypeScript,,2
+commerce-framework,,TypeScript,,88
+react-keyframes,Create frame-based animations in React,TypeScript,"react,animate,animation,frame,keyframes",608
+sqsmv,Move messages between two SQS queues,Go,,9
+cosmosdb-server,A Cosmos DB server implementation for testing your applications locally.,TypeScript,,145
+body-scroll-lock,Body scroll locking that just works with everything 😏,JavaScript,,4
+workshop-reacthaton,,TypeScript,,6
+email-prompt,CLI email prompt with autocompletion and built-in validation,JavaScript,,270
+nextgram,A sample Next.js app showing dynamic routing with modals as a route.,JavaScript,"nextjs,vercel",57
+zsh-theme,Yet another zsh theme,MIT,"shell,zsh,oh-my-zsh,hyper,vercel",166
+update-check,Minimalistic update notifications for command line interfaces,JavaScript,"package,checker,update,notification",157
+next-codemod,codemod transformations to help upgrade Next.js codebases,JavaScript,"nextjs,codemod",60
+vscode-material-icon-theme,Available on the VSCode Marketplace,TypeScript,,9
+lua-resty-template,Templating Engine (HTML) for Lua and OpenResty.,Lua,,4
+algolite,An Implementation of Algolia to emulate its REST API,JavaScript,,3
+SyslogPro,"A NodeJS Syslog module with support for RFC3164, RFC5424, LEEF, and CEF formatted messages over UDP, TCP or TLS transport",TypeScript,,3
+amazon-kinesis-client-nodejs,Amazon Kinesis Client Library for Node.js,JavaScript,,4
+response,Monzo's real-time incident response and reporting tool ⚡️,JavaScript,,6
+azure-sdk-for-js,Microsoft Azure SDK for JavaScript (NodeJS & Browser),TypeScript,,2
+create-next-app,Create Next.js apps in one command,,"react,nextjs,server-side-rendering,zero-configuration,next,build-tools",2777
+react-jsx-parser,A React component which can parse JSX and output rendered React Components.,JavaScript,,9
+lua-aws,pure-lua implementation of aws REST APIs,Lua,,8
+nsfw,"A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows",C++,,4
+jsonpath,Query and manipulate JavaScript objects with JSONPath expressions. Robust JSONPath engine for Node.js.,JavaScript,,9
+terraform-aws-eks,A Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.,HCL,,4
+xterm.js,A terminal for the web,TypeScript,,24
+hyperyellow,Example theme for hyperterm,JavaScript,,79
+wait-for,Small utility that waits for a file to exist and optionally have some permissions set.,C,,40
+rollup-plugin-commonjs,,JavaScript,,4
+redis-semaphore,Distributed mutex and semaphore based on Redis,JavaScript,,6
+xopt,ANSI C (C89) command line options parser,C,,4
+lua-bcrypt,A bcrypt library for Lua,C,,2
+react-maskedinput,Masked <input/> React component,JavaScript,,10
+nft,Node.js dependency tracing utility,JavaScript,,791
+nextjs-portfolio-starter,Easily create a portfolio with Next.js and Markdown.,JavaScript,"blog,nextjs,vercel",390
+ms,Tiny millisecond conversion utility,TypeScript,"utility,conversion,milliseconds",4227
+title-site,A website for capitalizing your titles,JavaScript,"names,title,capitalization,capitalize",106
+title,A service for capitalizing your title properly,JavaScript,"service,title,capitalize,vercel",513
+release,Generate changelogs with a single command,JavaScript,"npm,releases,vercel,github",3469
+reactions,Next.js Incremental Static Regeneration Demo,JavaScript,,269
+hazel,Lightweight update server for Electron apps,JavaScript,"electron,updates,github-releases",2696
+async-retry,"Retrying made simple, easy and async",JavaScript,"javascript,retry,await,async",1561
+beginner-sveltekit,The complete course to start your journey building Svelte applications.,Svelte,"svelte,vercel,sveltekit",50
+mongodb-starter,"A developer directory built on Next.js and MongoDB Atlas, deployed on Vercel with the Vercel + MongoDB integration.",TypeScript,,188
+micro-dev,The development environment for `micro`,JavaScript,"cli,development,tools,interface,command-line",671
+next-react-server-components,Demo repository for Next.js + React Server Components,JavaScript,"react-server-components,react,nextjs",638
+server-components-notes-demo,Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.,JavaScript,"serverless,vercel,react-server-components,react,nextjs",665
+serve-handler,The foundation of `serve`,JavaScript,"middleware,server,handler,static,single-page-applications",456
+fun,ƒun - Local serverless function λ development runtime,TypeScript,,396
+webpack-asset-relocator-loader,Used in ncc while emitting and relocating any asset references,JavaScript,,74
+pkg-fetch,A utility to fetch or build patched Node binaries used by `pkg` to generate executables. This repo hosts prebuilt binaries in Releases.,TypeScript,,291
+nextjs-discord-bot,Discord bot for the official Next.js Discord,TypeScript,,48
+spr-landing,Serverless Pre-Rendering Landing Page,CSS,"demo,notion,vercel",384
+resolve-node,API endpoint to resolve an arbitrary Node.js version with semver support,JavaScript,,24
+hitbot,,TypeScript,,2
+commerce-framework,,TypeScript,,88
+react-keyframes,Create frame-based animations in React,TypeScript,"react,animate,animation,frame,keyframes",608
+sqsmv,Move messages between two SQS queues,Go,,9
+cosmosdb-server,A Cosmos DB server implementation for testing your applications locally.,TypeScript,,145
+body-scroll-lock,Body scroll locking that just works with everything 😏,JavaScript,,4
+workshop-reacthaton,,TypeScript,,6
+email-prompt,CLI email prompt with autocompletion and built-in validation,JavaScript,,270
+nextgram,A sample Next.js app showing dynamic routing with modals as a route.,JavaScript,"nextjs,vercel",57
+zsh-theme,Yet another zsh theme,MIT,"shell,zsh,oh-my-zsh,hyper,vercel",166
+update-check,Minimalistic update notifications for command line interfaces,JavaScript,"package,checker,update,notification",157
+next-codemod,codemod transformations to help upgrade Next.js codebases,JavaScript,"nextjs,codemod",60
+vscode-material-icon-theme,Available on the VSCode Marketplace,TypeScript,,9
+lua-resty-template,Templating Engine (HTML) for Lua and OpenResty.,Lua,,4
+algolite,An Implementation of Algolia to emulate its REST API,JavaScript,,3
+SyslogPro,"A NodeJS Syslog module with support for RFC3164, RFC5424, LEEF, and CEF formatted messages over UDP, TCP or TLS transport",TypeScript,,3
+amazon-kinesis-client-nodejs,Amazon Kinesis Client Library for Node.js,JavaScript,,4
+response,Monzo's real-time incident response and reporting tool ⚡️,JavaScript,,6
+azure-sdk-for-js,Microsoft Azure SDK for JavaScript (NodeJS & Browser),TypeScript,,2
+create-next-app,Create Next.js apps in one command,,"react,nextjs,server-side-rendering,zero-configuration,next,build-tools",2777
+react-jsx-parser,A React component which can parse JSX and output rendered React Components.,JavaScript,,9
+lua-aws,pure-lua implementation of aws REST APIs,Lua,,8
+nsfw,"A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows",C++,,4
+jsonpath,Query and manipulate JavaScript objects with JSONPath expressions. Robust JSONPath engine for Node.js.,JavaScript,,9
+terraform-aws-eks,A Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.,HCL,,4
+xterm.js,A terminal for the web,TypeScript,,24
+hyperyellow,Example theme for hyperterm,JavaScript,,79
+wait-for,Small utility that waits for a file to exist and optionally have some permissions set.,C,,40
+rollup-plugin-commonjs,,JavaScript,,4
+redis-semaphore,Distributed mutex and semaphore based on Redis,JavaScript,,6
+xopt,ANSI C (C89) command line options parser,C,,4
+lua-bcrypt,A bcrypt library for Lua,C,,2
+react-maskedinput,Masked <input/> React component,JavaScript,,10
+next.js,The React Framework,JavaScript,"react,blog,static-site-generator,components,node,browser,compiler",93023
+turborepo,The High-performance Build System for JavaScript & TypeScript Codebases,Go,"javascript,typescript,monorepo,build-tool,build-system",9527
+vercel,Develop. Preview. Ship.,TypeScript,"cloud,command,hosting,jamstack,cli,ship,vercel",9314
+edge-runtime,"Developing, testing, and defining the runtime Web APIs for Edge infrastructure.",TypeScript,,297
+examples,Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.,TypeScript,"examples,vercel,nextjs",1414
+swr-site,The official website for SWR.,JavaScript,,370
+swr,React Hooks for Data Fetching,TypeScript,"fetch,hook,data,react-native,cache,data-fetching,stale-while-revalidate",24010
+nextjs-subscription-payments,"Clone, deploy, and fully customize a SaaS subscription application with Next.js.",TypeScript,"nextjs-starter,stripe-checkout,vercel,stripe-customer-portal,supabase",2146
+commerce,Next.js Commerce,TypeScript,"react,ecommerce,nextjs",6225
+pkg,Package your Node.js project into an executable,JavaScript,"nodejs,cli,compiler,binaries",21979
+tsyringe,Lightweight dependency injection container for JavaScript/TypeScript,TypeScript,,0
+platforms,A template for site builders and low-code tools.,TypeScript,"cloudinary,prisma,tailwindcss,planetscale,nextjs,vercel",1988
+style-guide,Vercel's engineering style guide,JavaScript,,378
+schemas,All schemas used for validation that are shared between our projects,JavaScript,"json,validation,schemas,ajv",69
+fetch,Opinionated `fetch` (with retrying and DNS caching) optimized for use with Node.js,JavaScript,,474
+ncc,"Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.",JavaScript,,7111
+remote-cache,The Vercel Remote Cache SDK,TypeScript,,135
+sveltekit-commerce,SvelteKit Commerce,Svelte,"svelte,sveltekit",173
+terraform-provider-vercel,Terraform Vercel Provider,Go,"terraform,terraform-provider,vercel",65
+hyper-site,The official website for the Hyper terminal,JavaScript,"website,terminal,command-line,nextjs,plugins,hyper,themes",359
+hyper,A terminal built on web technologies,TypeScript,"react,javascript,css,html,terminal,terminal-emulators,macos",39297
+og-image,"Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc",TypeScript,"image,generator,open-graph,twitter-cards,image-generator,vercel",3480
+arg,Simple argument parsing,JavaScript,"cli,parser,command,argv,argument",1084
+vrs,A serverless virtual reality e-commerce experience powered by Vercel,TypeScript,,486
+micro,Asynchronous HTTP microservices,TypeScript,"microservice,async,micro,await,vercel",10193
+serve,Static file serving and directory listing,TypeScript,"cli,http,node,command",8143
+next-learn,Learn Next.js Starter Code,JavaScript,,1516
+styled-jsx,Full CSS support for JSX without compromises,JavaScript,"react,css,css-in-js,shadow-dom,jsx,dynamic-styles",7184
+terraform-provider-preset,A Terraform Provider for Preset/Superset (Beta),Go,,6
+virtual-event-starter-kit,"Open source demo that Next.js developers can clone, deploy, and fully customize for events.",TypeScript,,1893
+nft,Node.js dependency tracing utility,JavaScript,,791
+nextjs-portfolio-starter,Easily create a portfolio with Next.js and Markdown.,JavaScript,"blog,nextjs,vercel",390
+ms,Tiny millisecond conversion utility,TypeScript,"utility,conversion,milliseconds",4227
+title-site,A website for capitalizing your titles,JavaScript,"names,title,capitalization,capitalize",106
+title,A service for capitalizing your title properly,JavaScript,"service,title,capitalize,vercel",513
+release,Generate changelogs with a single command,JavaScript,"npm,releases,vercel,github",3469
+reactions,Next.js Incremental Static Regeneration Demo,JavaScript,,269
+hazel,Lightweight update server for Electron apps,JavaScript,"electron,updates,github-releases",2696
+async-retry,"Retrying made simple, easy and async",JavaScript,"javascript,retry,await,async",1561
+beginner-sveltekit,The complete course to start your journey building Svelte applications.,Svelte,"svelte,vercel,sveltekit",50
+mongodb-starter,"A developer directory built on Next.js and MongoDB Atlas, deployed on Vercel with the Vercel + MongoDB integration.",TypeScript,,188
+micro-dev,The development environment for `micro`,JavaScript,"cli,development,tools,interface,command-line",671
+next-react-server-components,Demo repository for Next.js + React Server Components,JavaScript,"react-server-components,react,nextjs",638
+server-components-notes-demo,Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.,JavaScript,"serverless,vercel,react-server-components,react,nextjs",665
+serve-handler,The foundation of `serve`,JavaScript,"middleware,server,handler,static,single-page-applications",456
+fun,ƒun - Local serverless function λ development runtime,TypeScript,,396
+webpack-asset-relocator-loader,Used in ncc while emitting and relocating any asset references,JavaScript,,74
+pkg-fetch,A utility to fetch or build patched Node binaries used by `pkg` to generate executables. This repo hosts prebuilt binaries in Releases.,TypeScript,,291
+nextjs-discord-bot,Discord bot for the official Next.js Discord,TypeScript,,48
+spr-landing,Serverless Pre-Rendering Landing Page,CSS,"demo,notion,vercel",384
+resolve-node,API endpoint to resolve an arbitrary Node.js version with semver support,JavaScript,,24
+hitbot,,TypeScript,,2
+commerce-framework,,TypeScript,,88
+react-keyframes,Create frame-based animations in React,TypeScript,"react,animate,animation,frame,keyframes",608
+sqsmv,Move messages between two SQS queues,Go,,9
+cosmosdb-server,A Cosmos DB server implementation for testing your applications locally.,TypeScript,,145
+body-scroll-lock,Body scroll locking that just works with everything 😏,JavaScript,,4
+workshop-reacthaton,,TypeScript,,6
+email-prompt,CLI email prompt with autocompletion and built-in validation,JavaScript,,270
+nextgram,A sample Next.js app showing dynamic routing with modals as a route.,JavaScript,"nextjs,vercel",57
+zsh-theme,Yet another zsh theme,MIT,"shell,zsh,oh-my-zsh,hyper,vercel",166
+update-check,Minimalistic update notifications for command line interfaces,JavaScript,"package,checker,update,notification",157
+next-codemod,codemod transformations to help upgrade Next.js codebases,JavaScript,"nextjs,codemod",60
+vscode-material-icon-theme,Available on the VSCode Marketplace,TypeScript,,9
+lua-resty-template,Templating Engine (HTML) for Lua and OpenResty.,Lua,,4
+algolite,An Implementation of Algolia to emulate its REST API,JavaScript,,3
+SyslogPro,"A NodeJS Syslog module with support for RFC3164, RFC5424, LEEF, and CEF formatted messages over UDP, TCP or TLS transport",TypeScript,,3
+amazon-kinesis-client-nodejs,Amazon Kinesis Client Library for Node.js,JavaScript,,4
+response,Monzo's real-time incident response and reporting tool ⚡️,JavaScript,,6
+azure-sdk-for-js,Microsoft Azure SDK for JavaScript (NodeJS & Browser),TypeScript,,2
+create-next-app,Create Next.js apps in one command,,"react,nextjs,server-side-rendering,zero-configuration,next,build-tools",2777
+react-jsx-parser,A React component which can parse JSX and output rendered React Components.,JavaScript,,9
+lua-aws,pure-lua implementation of aws REST APIs,Lua,,8
+nsfw,"A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows",C++,,4
+jsonpath,Query and manipulate JavaScript objects with JSONPath expressions. Robust JSONPath engine for Node.js.,JavaScript,,9
+terraform-aws-eks,A Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.,HCL,,4
+xterm.js,A terminal for the web,TypeScript,,24
+hyperyellow,Example theme for hyperterm,JavaScript,,79
+wait-for,Small utility that waits for a file to exist and optionally have some permissions set.,C,,40
+rollup-plugin-commonjs,,JavaScript,,4
+redis-semaphore,Distributed mutex and semaphore based on Redis,JavaScript,,6
+xopt,ANSI C (C89) command line options parser,C,,4
+lua-bcrypt,A bcrypt library for Lua,C,,2
+react-maskedinput,Masked <input/> React component,JavaScript,,10
+next.js,The React Framework,JavaScript,"react,blog,static-site-generator,components,node,browser,compiler",93023
+turborepo,The High-performance Build System for JavaScript & TypeScript Codebases,Go,"javascript,typescript,monorepo,build-tool,build-system",9527
+vercel,Develop. Preview. Ship.,TypeScript,"cloud,command,hosting,jamstack,cli,ship,vercel",9314
+edge-runtime,"Developing, testing, and defining the runtime Web APIs for Edge infrastructure.",TypeScript,,297
+examples,Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.,TypeScript,"examples,vercel,nextjs",1414
+swr-site,The official website for SWR.,JavaScript,,370
+swr,React Hooks for Data Fetching,TypeScript,"fetch,hook,data,react-native,cache,data-fetching,stale-while-revalidate",24010
+nextjs-subscription-payments,"Clone, deploy, and fully customize a SaaS subscription application with Next.js.",TypeScript,"nextjs-starter,stripe-checkout,vercel,stripe-customer-portal,supabase",2146
+commerce,Next.js Commerce,TypeScript,"react,ecommerce,nextjs",6225
+pkg,Package your Node.js project into an executable,JavaScript,"nodejs,cli,compiler,binaries",21979
+tsyringe,Lightweight dependency injection container for JavaScript/TypeScript,TypeScript,,0
+platforms,A template for site builders and low-code tools.,TypeScript,"cloudinary,prisma,tailwindcss,planetscale,nextjs,vercel",1988
+style-guide,Vercel's engineering style guide,JavaScript,,378
+schemas,All schemas used for validation that are shared between our projects,JavaScript,"json,validation,schemas,ajv",69
+fetch,Opinionated `fetch` (with retrying and DNS caching) optimized for use with Node.js,JavaScript,,474
+ncc,"Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.",JavaScript,,7111
+remote-cache,The Vercel Remote Cache SDK,TypeScript,,135
+sveltekit-commerce,SvelteKit Commerce,Svelte,"svelte,sveltekit",173
+terraform-provider-vercel,Terraform Vercel Provider,Go,"terraform,terraform-provider,vercel",65
+hyper-site,The official website for the Hyper terminal,JavaScript,"website,terminal,command-line,nextjs,plugins,hyper,themes",359
+hyper,A terminal built on web technologies,TypeScript,"react,javascript,css,html,terminal,terminal-emulators,macos",39297
+og-image,"Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc",TypeScript,"image,generator,open-graph,twitter-cards,image-generator,vercel",3480
+arg,Simple argument parsing,JavaScript,"cli,parser,command,argv,argument",1084
+vrs,A serverless virtual reality e-commerce experience powered by Vercel,TypeScript,,486
+micro,Asynchronous HTTP microservices,TypeScript,"microservice,async,micro,await,vercel",10193
+serve,Static file serving and directory listing,TypeScript,"cli,http,node,command",8143
+next-learn,Learn Next.js Starter Code,JavaScript,,1516
+styled-jsx,Full CSS support for JSX without compromises,JavaScript,"react,css,css-in-js,shadow-dom,jsx,dynamic-styles",7184
+terraform-provider-preset,A Terraform Provider for Preset/Superset (Beta),Go,,6
+virtual-event-starter-kit,"Open source demo that Next.js developers can clone, deploy, and fully customize for events.",TypeScript,,1893
+release-auth,Handles the authentication for `release`,JavaScript,"release,vercel",20
+preview-mode-demo,This demo showcases Next.js' next-gen Static Site Generation (SSG) support.,TypeScript,"cms,real-time,preview,ssg,vercel,react,nextjs",78
+async-sema,Semaphore using `async` and `await`,TypeScript,"package,async,asynchronous,semaphore,await",523
+test-listen,Quick ephemeral URLs for your tests,JavaScript,,147
+static-fun,A fun demo for wildcard domains,TypeScript,,465
+cosmosdb-query,A SQL parser and executor for Cosmos DB,TypeScript,,9
+fetch-retry,Wrapper around `fetch` with sensible retrying defaults,JavaScript,,220
+fetch-cached-dns,A decorator on top of `fetch` that caches the DNS query,JavaScript,,33
+dns-cached-resolve,Caching DNS resolver,TypeScript,,35
+install-node,Simple one-liner shell script that installs official Node.js binaries,Shell,,124
+community,"Welcome to the Vercel Community. Discuss feature requests, ask questions, and connect with others in the community.",,,49
+hyperpower,Hyper particle effects extension,JavaScript,,578
+go-bridge,Bridge for `@vercel/go`,Go,"go,golang",8
+rcurl,`curl --resolve` helper script,Shell,,19
+uid-promise,Creates a cryptographically strong UID,TypeScript,"uuid,guid,uid",216
+example-integration,,JavaScript,,28
+actions,GitHub Actions for interacting with Docker,Ruby,,11
+next-plugins,Official Next.js plugins,MIT,,2675
+cla,,,,5
+tracing-js,An implementation of Opentracing API for honeycomb.io,TypeScript,"tracing,performance-analysis,honeycomb",34
+busted,Elegant Lua unit testing.,Lua,,3
+git-hooks,No nonsense Git hook management,JavaScript,,181
+err-sh,Microservice that forwards you to error messages,JavaScript,,96
+has-changed-path,GitHub Action that saves time and money in monorepo environments,JavaScript,,5
+clabot-config,clabot config,,,3
+stripe-integration,A Vercel deploy integration to automatically set up your Stripe API keys and webhook secrets.,TypeScript,,15
+remark-capitalize,Transform all markdown titles with title.sh,JavaScript,"plugin,remark,title,capitalization,mdx",28
+json-schema-to-ts,Infer typescript types from JSON schemas!,TypeScript,,10
+gatsby-plugin-vercel,Track Core Web Vitals in Gatsby projects with Vercel Analytics.,JavaScript,,18
+sqs-consumer,Build Amazon Simple Queue Service (SQS) based applications without the boilerplate,TypeScript,,6
